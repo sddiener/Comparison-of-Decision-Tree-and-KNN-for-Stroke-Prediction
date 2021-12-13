@@ -26,4 +26,13 @@ To test the best model, simply run 'C_Test_Final_Model.mlx'.
 
 'Statistics and Machine Learning Toolbox' version 12.2
 
+Python packages:
+Package                   Version
+pandas                    1.3.4
+numpy                     1.21.4
+matplotlib                3.4.3
+seaborn                   0.11.2
+scikit-learn              1.0.1
+imbalanced-learn          0.8.1
+
 All code was written in MATLAB R2021b.
